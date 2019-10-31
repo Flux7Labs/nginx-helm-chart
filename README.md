@@ -1,1 +1,1 @@
-Sample Helm Chart to deploy Nginx Web App
+Sample Helm Chart to deploy Nginx Web App.
